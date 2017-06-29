@@ -1,21 +1,16 @@
-# Lumen PHP Framework
+# LumenXu
 
-[![Build Status](https://travis-ci.org/laravel/lumen-framework.svg)](https://travis-ci.org/laravel/lumen-framework)
-[![Total Downloads](https://poser.pugx.org/laravel/lumen-framework/d/total.svg)](https://packagist.org/packages/laravel/lumen-framework)
-[![Latest Stable Version](https://poser.pugx.org/laravel/lumen-framework/v/stable.svg)](https://packagist.org/packages/laravel/lumen-framework)
-[![Latest Unstable Version](https://poser.pugx.org/laravel/lumen-framework/v/unstable.svg)](https://packagist.org/packages/laravel/lumen-framework)
-[![License](https://poser.pugx.org/laravel/lumen-framework/license.svg)](https://packagist.org/packages/laravel/lumen-framework)
+LumenXu 是对 Lumen 开发框架的深度丰富化，将常用的库集成于其中，并针对中文用户进行详细性配置，已方便各 PHP 开发者开箱即用，让开发者做最简单的事 （业务逻辑编写），其他的交给 LumenXu 考虑。
 
-Laravel Lumen is a stunningly fast PHP micro-framework for building web applications with expressive, elegant syntax. We believe development must be an enjoyable, creative experience to be truly fulfilling. Lumen attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as routing, database abstraction, queueing, and caching.
+## 辅助说明文档
 
-## Official Documentation
+Lumen 官方文档参见 [Lumen website](http://lumen.laravel.com/docs)。
+优化的过程文档参见 [LumenXu Wiki](https://github.com/xuxiangwork/lumen-frame/wiki)。
 
-Documentation for the framework can be found on the [Lumen website](http://lumen.laravel.com/docs).
+## 优化建议
 
-## Security Vulnerabilities
+在使用过程中，如果有优化建议，请通过 xuxiangwork163.com 邮箱进行联系。致力于将 LumenXu 打造成最省事的 Lumen PHP 开发微框架。
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell at taylor@laravel.com. All security vulnerabilities will be promptly addressed.
+## 许可证
 
-## License
-
-The Lumen framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
+LumenXu 是基于 [MIT license](http://opensource.org/licenses/MIT) 的开源软件。
