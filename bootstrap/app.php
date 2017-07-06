@@ -82,6 +82,7 @@ $app->singleton(
 // $app->register(App\Providers\AuthServiceProvider::class);
 // $app->register(App\Providers\EventServiceProvider::class);
 // $app->register(Maatwebsite\Excel\ExcelServiceProvider::class);
+// $app->register(Illuminate\Filesystem\FilesystemServiceProvider::class);
 
 /*
 |--------------------------------------------------------------------------
@@ -98,4 +99,5 @@ $app->group(['namespace' => 'App\Http\Controllers'], function ($app) {
     require __DIR__.'/../routes/web.php';
 });
 
+$app->configure('filesystems');
 return $app;
