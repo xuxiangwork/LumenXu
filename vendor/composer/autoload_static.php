@@ -57,6 +57,7 @@ class ComposerStaticInit57e3328e125708c519ca2c0e30d95dea
         ),
         'L' => 
         array (
+            'LeanCloud\\' => 10,
             'League\\Flysystem\\' => 17,
             'Laravel\\Lumen\\' => 14,
         ),
@@ -189,6 +190,10 @@ class ComposerStaticInit57e3328e125708c519ca2c0e30d95dea
         'Monolog\\' => 
         array (
             0 => __DIR__ . '/..' . '/monolog/monolog/src/Monolog',
+        ),
+        'LeanCloud\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/leancloud/leancloud-sdk/src/LeanCloud',
         ),
         'League\\Flysystem\\' => 
         array (
